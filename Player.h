@@ -10,6 +10,7 @@
 #include "object.h"
 
 #include <windows.h>
+#include<signal.h>
 
 enum BiologyState {
     normal = 12,
